@@ -17,7 +17,7 @@ const int LED_G_PIN = 14; // Change to your actual Green LED pin
 
 // --- MQTT Topics ---
 const char* topic_dht   = "iot/formagerie/esp32/dht22";
-const char* topic_led_r = "iot/formagerie/esp32/led_R";driv
+const char* topic_led_r = "iot/formagerie/esp32/led_R";
 const char* topic_led_g = "iot/formagerie/esp32/led_G";
 
 // --- Object Initializations ---
